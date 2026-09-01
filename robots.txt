@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tropic-neev.github.io/Tropic.com/sitemap.xml

@@ -1,0 +1,15 @@
+# Tropic
+
+> Tropic is a clothing brand inspired by tropical style, making apparel built for warm-weather living.
+
+Tropic is currently pre-launch. The site will be updated with the full product catalog soon.
+
+## Pages
+
+- [Home](https://tropic-neev.github.io/Tropic.com/home.html): Landing page and brand introduction.
+
+## Notes
+
+- Brand name: Tropic
+- Category: Clothing / apparel
+- Status: Coming soon — product catalog not yet live
